@@ -8,4 +8,4 @@ GROUP DETAILS:-
 3.TEJAS.C.S(1KS17CS092)
 
 iptables -A INPUT -s 192.168.43.43.157 -j DROP :- is comand to block a all input (email etc) user 192.168.43.43.157
-onces command is exiguted then it will drop all input from a michine 192.168.43.157
+onces command is exicuted then it will drop all input from a machine 192.168.43.157
